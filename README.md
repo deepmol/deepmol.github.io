@@ -1,3 +1,5 @@
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/D-Wave_Systems_logo.svg/960px-D-Wave_Systems_logo.svg.png)
+
 # 🧬 Quantum DeepMol - «Креативный прыжок»
 
 Интерактивная многопользовательская платформа для проектирования молекул *de novo* с использованием гибридных вычислений: классический ИИ + квантовый отжиг.  
