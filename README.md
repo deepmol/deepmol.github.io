@@ -8,7 +8,9 @@
 Проект объединяет научную визуализацию, motion design и игровую механику (в стиле Foldit) для ускорения поиска новых лекарственных соединений.
 
 ![](https://comiccon2025.github.io/img/snowflake/render.png)
+
 ![](https://comiccon2025.github.io/img/snowflake/renderer.png)
+
 ![](https://comiccon2025.github.io/img/snowflake/renderlab.png)
 
 ## 🚀 О проекте
