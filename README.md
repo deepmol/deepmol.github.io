@@ -7,9 +7,9 @@
 Интерактивная многопользовательская платформа для проектирования молекул *de novo* с использованием гибридных вычислений: классический ИИ + квантовый отжиг.  
 Проект объединяет научную визуализацию, motion design и игровую механику (в стиле Foldit) для ускорения поиска новых лекарственных соединений.
 
-![](http://comiccon2025.github.io/img/snowflake/render.png)
-![](http://comiccon2025.github.io/img/snowflake/renderer.png)
-![](http://comiccon2025.github.io/img/snowflake/renderlab.png)
+![](https://comiccon2025.github.io/img/snowflake/render.png)
+![](https://comiccon2025.github.io/img/snowflake/renderer.png)
+![](https://comiccon2025.github.io/img/snowflake/renderlab.png)
 
 ## 🚀 О проекте
 
